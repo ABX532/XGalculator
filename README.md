@@ -36,7 +36,7 @@ The only Python dependency is `tkinter`.
 
 ### Debian / Ubuntu / MX Linux
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
 or
 ```bash
