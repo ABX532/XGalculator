@@ -39,6 +39,14 @@ The only Python dependency is `tkinter`.
 ```bash
 sudo apt install python3-tk
 ```
+or
+```bash
+pip install -r requirements
+```
+or
+```bash
+pip install tkinter
+```
 
 ## 🚀 Installation
 
