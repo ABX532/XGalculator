@@ -116,3 +116,5 @@ Contributions, improvements, and bug reports are welcome!
 If you find XGalculator useful, consider giving the repository a ⭐ on GitHub!
 
 **Repository:** https://github.com/ABX532/XGalculator
+
+Made with ❤️ By ABX
