@@ -35,11 +35,6 @@
 The only Python dependency is `tkinter`.
 
 ### Debian / Ubuntu / MX Linux
-
-```bash
-sudo apt install python3-tk
-```
-or
 ```bash
 pip install -r requirements
 ```
