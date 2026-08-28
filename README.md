@@ -34,13 +34,13 @@
 
 The only Python dependency is `tkinter`.
 
-### Debian / Ubuntu / MX Linux
+### Installation
 ```bash
 pip install -r requirements.txt
 ```
 or
 ```bash
-pip install tkinter
+pip install tk
 ```
 
 ## 🚀 Installation
